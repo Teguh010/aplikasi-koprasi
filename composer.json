@@ -1,0 +1,17 @@
+{
+    "name": "teguhbadrusalam/aplikasi-koprasi",
+    "autoload": {
+        "psr-4": {
+            "Teguhbadrusalam\\AplikasiKoprasi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "teguh badrusalam",
+            "email": "teguhbaghoy6@gmail.com"
+        }
+    ],
+    "require": {
+        "paragonie/sodium_compat": "^1.20"
+    }
+}
